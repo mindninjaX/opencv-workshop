@@ -2,7 +2,7 @@
 
 ## 📚 Workshop Resources
 
-- [Open CV Presentation]()
+- [Open CV Presentation](https://stdntpartners-my.sharepoint.com/:b:/g/personal/rishabh_singh_studentambassadors_com/EUEcQWrKf7lCnXeaFcP4zfEBXHxRfwACHrczJgkSLDmVLQ?e=seLylk)
 - [Feedback Form](https://tinyurl.com/3826x7p9)
 
 <br>
