@@ -14,6 +14,13 @@
 
 <br>
 
+## 🧩 Git Setup
+- `git config user.name "your username"`
+- `git config user.password "your password"`
+- `git config user.email "your email"`
+
+<br>
+
 ## 🧰 Additional Resources
 - [Repl.it](https://repl.it/)
 - [Learn Markdown](https://www.markdowntutorial.com/)
