@@ -3,6 +3,7 @@
 ## 📚 Workshop Resources
 
 - [Open CV Presentation]()
+- [Feedback Form](https://tinyurl.com/3826x7p9)
 
 <br>
 
